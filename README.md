@@ -1,6 +1,6 @@
 # Serverless Node.js Starter
 
-felicia
+felicia was here
 
 A Serverless starter that adds ES7 syntax, serverless-offline, linting, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
 
